@@ -1,0 +1,654 @@
+,lat,long,total_bikes,restaurant_name,distance,rating,location
+0,43.665269,-79.319796,19.0,Te Aro,1570,8.9,983 Queen St E
+1,43.67142,-79.445947,15.0,Boxcar Social,2262,8.9,4 Boulton Ave
+2,43.666224,-79.317693,23.0,House on Parliament,3867,8.9,454 Parliament St
+3,43.653236,-79.376716,25.0,Neo Coffee Bar,4293,9.0,161 Frederick St
+4,43.663722,-79.380288,15.0,Cluny Bistro,3467,8.5,35 Tank House Lane
+5,43.657763,-79.389165,25.0,The Keg Steakhouse & Bar,4705,8.9,515 Jarvis St
+6,43.656729,-79.382736,22.0,Sukho Thai,4780,8.7,52 Wellington St E
+7,43.664467,-79.414783,19.0,The Keg Steakhouse + Bar,4877,8.7,26 the Esplanade
+8,43.675492,-79.388858,15.0,Pai,5856,9.2,18 Duncan St
+9,43.674991,-79.396273,11.0,Chotto Matte,5182,8.8,161 Bay St
+10,43.671944,-79.387778,17.0,The Good Neighbour,2239,8.8,238 Annette St
+11,43.662365,-79.351104,18.0,Communist's Daughter,3169,8.6,1149 Dundas St W
+12,43.646144,-79.377962,47.0,Sneaky Dee's,3520,8.6,431 College St
+13,43.663993,-79.358534,11.0,The Library Specialty Coffee,4811,8.9,281 Dundas St W
+14,43.657266,-79.374756,27.0,Pai,5299,9.2,18 Duncan St
+15,43.6672144,-79.3452697,15.0,HotBlack Coffee,5165,9.0,245 Queen St W
+16,43.673939,-79.441159,15.0,The Keg Steakhouse & Bar,5461,8.9,515 Jarvis St
+17,43.657991,-79.340075,11.0,The Keg Steakhouse + Bar,5512,8.8,165 York St
+18,43.66745,-79.329408,23.0,Cafe Landwer,5482,8.7,165 University Ave
+19,43.672453,-79.338259,15.0,House on Parliament,6336,8.9,454 Parliament St
+20,43.6592088,-79.3348396,14.0,Te Aro,1763,8.9,983 Queen St E
+21,43.689211,-79.35438,23.0,Boxcar Social,2454,8.9,4 Boulton Ave
+22,43.655431,-79.380653,14.0,House on Parliament,4042,8.9,454 Parliament St
+23,43.656927,-79.378497,16.0,Neo Coffee Bar,4490,9.0,161 Frederick St
+24,43.661324,-79.449534,12.0,The Keg Steakhouse & Bar,4872,8.9,515 Jarvis St
+25,43.658295,-79.372346,16.0,Cluny Bistro,3667,8.5,35 Tank House Lane
+26,43.6940155,-79.2889842,20.0,Sukho Thai,4977,8.7,52 Wellington St E
+27,43.6809164,-79.4229684,16.0,Pai,6051,9.2,18 Duncan St
+28,43.6910667,-79.39535,15.0,The Keg Steakhouse + Bar,5075,8.7,26 the Esplanade
+29,43.6975969,-79.39654,15.0,Chotto Matte,5379,8.8,161 Bay St
+30,43.639832,-79.395954,35.0,Neo Coffee Bar,662,9.0,161 Frederick St
+31,43.667158,-79.402761,15.0,Pai,1121,9.2,18 Duncan St
+32,43.667333,-79.399429,19.0,HotBlack Coffee,1012,9.0,245 Queen St W
+33,43.6480008,-79.383177,19.0,Sukho Thai,555,8.7,52 Wellington St E
+34,43.656518,-79.389099,11.0,The Keg Steakhouse + Bar,695,8.8,165 York St
+35,43.658148,-79.398167,19.0,Chotto Matte,769,8.8,161 Bay St
+36,43.687999,-79.38906,16.0,Walrus Pub & Beer Hall,689,8.7,187 Bay St
+37,43.63796,-79.387502,27.0,The Keg Steakhouse + Bar,741,8.7,26 the Esplanade
+38,43.6563889,-79.45166666666667,15.0,The Library Specialty Coffee,1148,8.9,281 Dundas St W
+39,43.639179,-79.399595,19.0,Cafe Landwer,855,8.7,165 University Ave
+40,43.6322445,-79.4108105,27.0,The Keg Steakhouse & Bar,373,8.9,515 Jarvis St
+41,43.6616667,-79.40138888888889,15.0,House on Parliament,999,8.9,454 Parliament St
+42,43.66666667,-79.45833333333334,19.0,Hair of the Dog,111,8.5,425 Church St
+43,43.657192,-79.452559,15.0,The Library Specialty Coffee,1340,8.9,281 Dundas St W
+44,43.6576,-79.4032,11.0,HotBlack Coffee,1630,9.0,245 Queen St W
+45,43.660694,-79.379052,17.0,Pai,1877,9.2,18 Duncan St
+46,43.636533,-79.395854,27.0,Neo Coffee Bar,1696,9.0,161 Frederick St
+47,43.640132,-79.380464,56.0,The Keg Steakhouse + Bar,1556,8.8,165 York St
+48,43.659777,-79.382767,19.0,Tim Hortons,692,8.5,70 Gerrard St W
+49,43.643667,-79.380414,11.0,Sukho Thai,1754,8.7,52 Wellington St E
+50,43.666233,-79.373327,23.0,The Library Specialty Coffee,397,8.9,281 Dundas St W
+51,43.640114,-79.393249,23.0,HotBlack Coffee,823,9.0,245 Queen St W
+52,43.6366666666667,-79.4197222222222,23.0,Pai,1094,9.2,18 Duncan St
+53,43.653766,-79.4016759,15.0,The Keg Steakhouse + Bar,955,8.8,165 York St
+54,43.6587734,-79.443054,23.0,Tim Hortons,337,8.5,70 Gerrard St W
+55,43.6538888888889,-79.4413888888889,15.0,The Keg Steakhouse & Bar,1327,8.9,515 Jarvis St
+56,43.6508333333333,-79.4430555555556,19.0,Cafe Landwer,1046,8.7,165 University Ave
+57,43.651238,-79.43868,15.0,Neo Coffee Bar,1782,9.0,161 Frederick St
+58,43.6544915,-79.422634,11.0,Chotto Matte,1506,8.8,161 Bay St
+59,43.6543604,-79.4655296,11.0,House on Parliament,1833,8.9,454 Parliament St
+60,43.635932,-79.465083,19.0,HotBlack Coffee,853,9.0,245 Queen St W
+61,43.654501,-79.460053,12.0,The Library Specialty Coffee,705,8.9,281 Dundas St W
+62,43.637894,-79.454823,27.0,Pai,1085,9.2,18 Duncan St
+63,43.634896,-79.467763,19.0,The Keg Steakhouse + Bar,757,8.8,165 York St
+64,43.6535269,-79.4650569,23.0,Neo Coffee Bar,1273,9.0,161 Frederick St
+65,43.6314,-79.4304,31.0,The Keg Steakhouse & Bar,1169,8.9,515 Jarvis St
+66,43.636731,-79.444966,19.0,Cafe Landwer,911,8.7,165 University Ave
+67,43.6534268,-79.4512787,12.0,House on Parliament,1422,8.9,454 Parliament St
+68,43.7112153,-79.39894,16.0,Tim Hortons,280,8.5,70 Gerrard St W
+69,43.655227,-79.39201,15.0,Chotto Matte,1183,8.8,161 Bay St
+70,43.685167,-79.34962,12.0,Sneaky Dee's,1077,8.6,431 College St
+71,43.6704537,-79.39014,9.0,The Library Specialty Coffee,2221,8.9,281 Dundas St W
+72,43.6691099,-79.38551,22.0,Pai,2796,9.2,18 Duncan St
+73,43.641389,-79.404444,15.0,HotBlack Coffee,2619,9.0,245 Queen St W
+74,43.643834,-79.396649,15.0,Communist's Daughter,1750,8.6,1149 Dundas St W
+75,43.6545174,-79.3895315,19.0,The Keg Steakhouse & Bar,2943,8.9,515 Jarvis St
+76,43.665846,-79.404998,18.0,The Keg Steakhouse + Bar,2945,8.8,165 York St
+77,43.6461,-79.3895,12.0,Cafe Landwer,2939,8.7,165 University Ave
+78,43.671349,-79.29451,11.0,Dark Horse Espresso Bar,2104,8.4,215 Spadina Ave
+79,43.667208,-79.312315,15.0,Eataly,2175,8.4,55 Bloor St W
+80,43.669328,-79.288949,19.0,The Keg Steakhouse & Bar,1289,8.9,515 Jarvis St
+81,43.672571,-79.289,15.0,Eataly,637,8.4,55 Bloor St W
+82,43.638497,-79.39192,19.0,House on Parliament,2140,8.9,454 Parliament St
+83,43.662771,-79.315223,15.0,The Library Specialty Coffee,2348,8.9,281 Dundas St W
+84,43.66852,-79.363525,11.0,HotBlack Coffee,2792,9.0,245 Queen St W
+85,43.652473,-79.401456,15.0,Pai,3063,9.2,18 Duncan St
+86,43.643975,-79.419576,23.0,Hair of the Dog,1589,8.5,425 Church St
+87,43.651318,-79.36023,19.0,Neo Coffee Bar,3173,9.0,161 Frederick St
+88,43.656094,-79.381484,15.0,The Keg Steakhouse + Bar,2859,8.8,165 York St
+89,43.670318,-79.405181,9.0,Tim Hortons,1904,8.5,70 Gerrard St W
+90,43.676667,-79.416111,27.0,The Keg Steakhouse & Bar,1709,8.9,515 Jarvis St
+91,43.640634,-79.435841,23.0,Eataly,841,8.4,55 Bloor St W
+92,43.639444,-79.423611,15.0,The Library Specialty Coffee,2327,8.9,281 Dundas St W
+93,43.67,-79.42083333333333,11.0,House on Parliament,2609,8.9,454 Parliament St
+94,43.671389,-79.416389,15.0,HotBlack Coffee,2804,9.0,245 Queen St W
+95,43.68,-79.42500000000001,19.0,Pai,3070,9.2,18 Duncan St
+96,43.6394444,-79.42527777777778,15.0,Sneaky Dee's,2254,8.6,431 College St
+97,43.675791,-79.40698,15.0,Hair of the Dog,1899,8.5,425 Church St
+98,43.675556,-79.410278,15.0,The Keg Steakhouse + Bar,2945,8.8,165 York St
+99,43.674444,-79.414722,14.0,Neo Coffee Bar,3464,9.0,161 Frederick St
+100,43.671513,-79.408317,15.0,The Keg Steakhouse & Bar,955,8.9,515 Jarvis St
+101,43.6783213,-79.35822,19.0,Eataly,254,8.4,55 Bloor St W
+102,43.6848652,-79.356602,23.0,House on Parliament,1848,8.9,454 Parliament St
+103,43.68395,-79.347046,19.0,The Library Specialty Coffee,1964,8.9,281 Dundas St W
+104,43.690537,-79.341307,19.0,HotBlack Coffee,2399,9.0,245 Queen St W
+105,43.704461,-79.423122,15.0,Pai,2670,9.2,18 Duncan St
+106,43.659195,-79.329196,19.0,Hair of the Dog,1204,8.5,425 Church St
+107,43.651885,-79.3649,17.0,Neo Coffee Bar,2790,9.0,161 Frederick St
+108,43.682645,-79.377557,23.0,The Keg Steakhouse + Bar,2457,8.8,165 York St
+109,43.6475,-79.43305555555555,15.0,Tim Hortons,1501,8.5,70 Gerrard St W
+110,43.6494896,-79.393535,7.0,Boxcar Social,449,8.9,4 Boulton Ave
+111,43.671526,-79.44874,19.0,Te Aro,1013,8.9,983 Queen St E
+112,43.6451635,-79.3831757,18.0,House on Parliament,1354,8.9,454 Parliament St
+113,43.6452972,-79.3827914,19.0,Neo Coffee Bar,1951,9.0,161 Frederick St
+114,43.6452091,-79.3960744,19.0,The Keg Steakhouse & Bar,2240,8.9,515 Jarvis St
+115,43.6555556,-79.43361111111112,19.0,Cluny Bistro,1418,8.5,35 Tank House Lane
+116,43.678077,-79.390328,17.0,Sukho Thai,2435,8.7,52 Wellington St E
+117,43.645665,-79.415345,19.0,The Keg Steakhouse + Bar,2577,8.7,26 the Esplanade
+118,43.6493472,-79.42668,8.0,Pai,3413,9.2,18 Duncan St
+119,43.667266,-79.443946,16.0,Chotto Matte,2840,8.8,161 Bay St
+120,43.660207,-79.361275,27.0,Chotto Matte,75,8.8,161 Bay St
+121,43.648655,-79.367061,27.0,Pai,876,9.2,18 Duncan St
+122,43.648711,-79.389728,31.0,Walrus Pub & Beer Hall,185,8.7,187 Bay St
+123,43.6605603,-79.3437663,15.0,The Keg Steakhouse + Bar,264,8.7,26 the Esplanade
+124,43.6561111,-79.36138888888888,15.0,Neo Coffee Bar,863,9.0,161 Frederick St
+125,43.652219,-79.354455,39.0,Sukho Thai,378,8.7,52 Wellington St E
+126,43.650279,-79.356832,15.0,HotBlack Coffee,980,9.0,245 Queen St W
+127,43.652686,-79.358395,15.0,The Keg Steakhouse + Bar,652,8.8,165 York St
+128,43.649147,-79.395504,11.0,Cafe Landwer,662,8.7,165 University Ave
+129,43.643795,-79.375413,39.0,Cactus Club Cafe,482,8.5,77 Adelaide St W
+130,43.662085,-79.397735,17.0,House on Parliament,750,8.9,454 Parliament St
+131,43.659575,-79.365769,15.0,Neo Coffee Bar,1710,9.0,161 Frederick St
+132,43.65205,-79.362198,19.0,Te Aro,1630,8.9,983 Queen St E
+133,43.668456,-79.393899,19.0,The Keg Steakhouse & Bar,1618,8.9,515 Jarvis St
+134,43.639052,-79.399792,20.0,Sukho Thai,2150,8.7,52 Wellington St E
+135,43.6448617,-79.42822,16.0,Pai,3004,9.2,18 Duncan St
+136,43.6563888888889,-79.4091666666667,19.0,HotBlack Coffee,2857,9.0,245 Queen St W
+137,43.6409,-79.432837,19.0,Cluny Bistro,1493,8.5,35 Tank House Lane
+138,43.6430555555556,-79.4275,23.0,The Keg Steakhouse + Bar,2321,8.7,26 the Esplanade
+139,43.660414,-79.415646,15.0,Chotto Matte,2537,8.8,161 Bay St
+140,43.661975,-79.407896,11.0,Neo Coffee Bar,852,9.0,161 Frederick St
+141,43.65905,-79.422988,11.0,House on Parliament,900,8.9,454 Parliament St
+142,43.66,-79.4088888888889,11.0,Pai,1520,9.2,18 Duncan St
+143,43.690564,-79.326319,23.0,HotBlack Coffee,1356,9.0,245 Queen St W
+144,43.686829,-79.311073,20.0,The Keg Steakhouse & Bar,1092,8.9,515 Jarvis St
+145,43.688325,-79.300463,15.0,The Keg Steakhouse + Bar,1104,8.8,165 York St
+146,43.65716,-79.46478,27.0,Sukho Thai,975,8.7,52 Wellington St E
+147,43.6525077,-79.4654233,23.0,The Library Specialty Coffee,1336,8.9,281 Dundas St W
+148,43.6772,-79.35858,15.0,Chotto Matte,1242,8.8,161 Bay St
+149,43.662712,-79.379903,19.0,The Keg Steakhouse + Bar,1172,8.7,26 the Esplanade
+150,43.658938,-79.383518,25.0,Boxcar Social,842,8.9,4 Boulton Ave
+151,43.683378,-79.322961,15.0,Te Aro,843,8.9,983 Queen St E
+152,43.6425636,-79.3762,15.0,House on Parliament,1858,8.9,454 Parliament St
+153,43.6521,-79.4486,12.0,Neo Coffee Bar,2662,9.0,161 Frederick St
+154,43.669969,-79.386532,14.0,The Keg Steakhouse & Bar,2655,8.9,515 Jarvis St
+155,43.633473,-79.425679,16.0,Cluny Bistro,2108,8.5,35 Tank House Lane
+156,43.630254,-79.420317,35.0,Sukho Thai,3141,8.7,52 Wellington St E
+157,43.662403,-79.423098,34.0,Pai,4088,9.2,18 Duncan St
+158,43.656945,-79.424911,17.0,The Keg Steakhouse + Bar,3288,8.7,26 the Esplanade
+159,43.6817346,-79.4184725,19.0,HotBlack Coffee,3959,9.0,245 Queen St W
+160,43.683296,-79.418734,19.0,The Good Neighbour,2709,8.8,238 Annette St
+161,43.673831,-79.281455,18.0,Communist's Daughter,3177,8.6,1149 Dundas St W
+162,43.666325,-79.3014,23.0,Sneaky Dee's,3342,8.6,431 College St
+163,43.651145,-79.423742,12.0,The Library Specialty Coffee,4585,8.9,281 Dundas St W
+164,43.654905,-79.398448,20.0,Pai,5121,9.2,18 Duncan St
+165,43.651118,-79.369411,23.0,HotBlack Coffee,4966,9.0,245 Queen St W
+166,43.6571,-79.4056,11.0,The Keg Steakhouse & Bar,5115,8.9,515 Jarvis St
+167,43.650033,-79.396555,33.0,The Keg Steakhouse + Bar,5303,8.8,165 York St
+168,43.652823,-79.393388,31.0,Cafe Landwer,5286,8.7,165 University Ave
+169,43.665527,-79.387499,15.0,House on Parliament,6002,8.9,454 Parliament St
+170,43.6582,-79.3768,31.0,Te Aro,394,8.9,983 Queen St E
+171,43.671172,-79.354704,15.0,Boxcar Social,579,8.9,4 Boulton Ave
+172,43.677076,-79.35667,14.0,House on Parliament,2319,8.9,454 Parliament St
+173,43.680223,-79.344062,15.0,Neo Coffee Bar,2482,9.0,161 Frederick St
+174,43.678401,-79.346289,17.0,Cluny Bistro,1649,8.5,35 Tank House Lane
+175,43.681991,-79.329455,19.0,Sukho Thai,2966,8.7,52 Wellington St E
+176,43.6422222,-79.41111111111111,15.0,The Keg Steakhouse & Bar,3223,8.9,515 Jarvis St
+177,43.663808,-79.410491,19.0,The Keg Steakhouse + Bar,3058,8.7,26 the Esplanade
+178,43.6666667,-79.41166666666668,23.0,Chotto Matte,3365,8.8,161 Bay St
+179,43.6638889,-79.41888888888889,19.0,Pai,4057,9.2,18 Duncan St
+180,43.661705,-79.425734,11.0,Te Aro,999,8.9,983 Queen St E
+181,43.6686111,-79.42027777777778,19.0,Boxcar Social,1645,8.9,4 Boulton Ave
+182,43.665327,-79.43235,19.0,House on Parliament,3119,8.9,454 Parliament St
+183,43.657343,-79.43112,19.0,Neo Coffee Bar,3705,9.0,161 Frederick St
+184,43.645324,-79.40345,25.0,The Keg Steakhouse & Bar,3931,8.9,515 Jarvis St
+185,43.650256,-79.36163,15.0,Cluny Bistro,2957,8.5,35 Tank House Lane
+186,43.65111111111111,-79.4213888888889,19.0,Sukho Thai,4196,8.7,52 Wellington St E
+187,43.656296,-79.414663,15.0,Pai,5228,9.2,18 Duncan St
+188,43.649722,-79.416944,23.0,The Keg Steakhouse + Bar,4313,8.7,26 the Esplanade
+189,43.651281,-79.411717,13.0,Chotto Matte,4603,8.8,161 Bay St
+190,43.65277778,-79.42972222,15.0,Te Aro,1231,8.9,983 Queen St E
+191,43.655,-79.418889,19.0,Boxcar Social,1574,8.9,4 Boulton Ave
+192,43.668553,-79.338673,19.0,House on Parliament,2572,8.9,454 Parliament St
+193,43.663912,-79.327987,19.0,Neo Coffee Bar,3471,9.0,161 Frederick St
+194,43.6462176,-79.3855048,15.0,The Keg Steakhouse & Bar,3280,8.9,515 Jarvis St
+195,43.69595,-79.328535,19.0,Cluny Bistro,2897,8.5,35 Tank House Lane
+196,43.6753188,-79.3462789,15.0,Sukho Thai,3950,8.7,52 Wellington St E
+197,43.6720273,-79.3470557,11.0,Pai,4878,9.2,18 Duncan St
+198,43.637981,-79.424146,19.0,HotBlack Coffee,4737,9.0,245 Queen St W
+199,43.640885,-79.416379,11.0,The Keg Steakhouse + Bar,4098,8.7,26 the Esplanade
+200,43.6552778,-79.36583333333333,15.0,Te Aro,384,8.9,983 Queen St E
+201,43.6712581,-79.376367,15.0,Boxcar Social,968,8.9,4 Boulton Ave
+202,43.664524,-79.36793,15.0,House on Parliament,2699,8.9,454 Parliament St
+203,43.665867,-79.362506,15.0,Neo Coffee Bar,2924,9.0,161 Frederick St
+204,43.648575,-79.380042,19.0,Cluny Bistro,2084,8.5,35 Tank House Lane
+205,43.643473,-79.390477,15.0,The Keg Steakhouse & Bar,3593,8.9,515 Jarvis St
+206,43.645859,-79.38783,27.0,Sukho Thai,3407,8.7,52 Wellington St E
+207,43.662132,-79.3656796,23.0,The Keg Steakhouse + Bar,3497,8.7,26 the Esplanade
+208,43.640722,-79.391051,11.0,Pai,4499,9.2,18 Duncan St
+209,43.66207,-79.37617,14.0,Chotto Matte,3806,8.8,161 Bay St
+210,43.660206,-79.3244,11.0,House on Parliament,3040,8.9,454 Parliament St
+211,43.668633,-79.291162,15.0,The Keg Steakhouse & Bar,3150,8.9,515 Jarvis St
+212,43.665801,-79.384796,12.0,Te Aro,3344,8.9,983 Queen St E
+213,43.668153,-79.38891,20.0,Neo Coffee Bar,4443,9.0,161 Frederick St
+214,43.657024,-79.377257,15.0,The Library Specialty Coffee,4854,8.9,281 Dundas St W
+215,43.662862,-79.383572,18.0,Pai,5348,9.2,18 Duncan St
+216,43.652276,-79.380701,11.0,HotBlack Coffee,5121,9.0,245 Queen St W
+217,43.7063473,-79.40161,20.0,Hair of the Dog,3567,8.5,425 Church St
+218,43.6978701,-79.39419,20.0,Eataly,3505,8.4,55 Bloor St W
+219,43.696708,-79.40045,19.0,The Keg Steakhouse + Bar,4970,8.8,165 York St
+220,43.6476616,-79.37549,10.0,HotBlack Coffee,855,9.0,245 Queen St W
+221,43.6487245,-79.36839,19.0,Pai,1049,9.2,18 Duncan St
+222,43.667819,-79.35347,15.0,The Library Specialty Coffee,831,8.9,281 Dundas St W
+223,43.663102,-79.373181,17.0,The Keg Steakhouse + Bar,665,8.8,165 York St
+224,43.64852,-79.380576,39.0,Neo Coffee Bar,1056,9.0,161 Frederick St
+225,43.656026,-79.385327,15.0,Chotto Matte,1006,8.8,161 Bay St
+226,43.645323,-79.395003,19.0,Cafe Landwer,833,8.7,165 University Ave
+227,43.677778,-79.405556,15.0,Sukho Thai,914,8.7,52 Wellington St E
+228,43.641646,-79.375308,31.0,Walrus Pub & Beer Hall,899,8.7,187 Bay St
+229,43.646162,-79.378912,11.0,House on Parliament,1375,8.9,454 Parliament St
+230,43.687323,-79.304848,15.0,Neo Coffee Bar,1014,9.0,161 Frederick St
+231,43.668991,-79.379385,23.0,Pai,1287,9.2,18 Duncan St
+232,43.6622222,-79.3825,15.0,HotBlack Coffee,1095,9.0,245 Queen St W
+233,43.64333333333333,-79.40555555555557,15.0,The Library Specialty Coffee,1035,8.9,281 Dundas St W
+234,43.6575,-79.39527777777778,23.0,House on Parliament,1135,8.9,454 Parliament St
+235,43.657424,-79.381019,22.0,The Keg Steakhouse + Bar,893,8.8,165 York St
+236,43.64595,-79.378761,19.0,The Keg Steakhouse & Bar,1092,8.9,515 Jarvis St
+237,43.668427,-79.38725,20.0,Sukho Thai,990,8.7,52 Wellington St E
+238,43.669604,-79.381171,20.0,Chotto Matte,1161,8.8,161 Bay St
+239,43.661673,-79.337789,16.0,Walrus Pub & Beer Hall,1064,8.7,187 Bay St
+240,43.665656,-79.352055,18.0,The Good Neighbour,1730,8.8,238 Annette St
+241,43.6308933,-79.4722622,23.0,Communist's Daughter,2653,8.6,1149 Dundas St W
+242,43.6224434,-79.480284,31.0,Sneaky Dee's,3431,8.6,431 College St
+243,43.66986,-79.398443,15.0,Pai,5122,9.2,18 Duncan St
+244,43.659471,-79.350325,12.0,The Library Specialty Coffee,4775,8.9,281 Dundas St W
+245,43.650492,-79.450842,19.0,HotBlack Coffee,5042,9.0,245 Queen St W
+246,43.640255,-79.439223,16.0,The Keg Steakhouse + Bar,5409,8.8,165 York St
+247,43.637922,-79.431734,16.0,Pennies,3608,8.3,127 Strachan Ave
+248,43.643769,-79.447915,18.0,Cafe Landwer,5344,8.7,165 University Ave
+249,43.649172,-79.4445087,16.0,The Keg Steakhouse & Bar,5757,8.9,515 Jarvis St
+250,43.663912,-79.416124,20.0,House on Parliament,695,8.9,454 Parliament St
+251,43.6458569,-79.3853654,27.0,Neo Coffee Bar,879,9.0,161 Frederick St
+252,43.66587,-79.33443,16.0,The Keg Steakhouse & Bar,1055,8.9,515 Jarvis St
+253,43.658816,-79.367318,19.0,Pai,1741,9.2,18 Duncan St
+254,43.654004,-79.444792,20.0,HotBlack Coffee,1580,9.0,245 Queen St W
+255,43.6397,-79.44865,19.0,Sukho Thai,1104,8.7,52 Wellington St E
+256,43.653809,-79.3595,12.0,The Keg Steakhouse + Bar,1321,8.8,165 York St
+257,43.673768,-79.391253,12.0,The Library Specialty Coffee,1552,8.9,281 Dundas St W
+258,43.654074,-79.398115,17.0,Chotto Matte,1411,8.8,161 Bay St
+259,43.656638,-79.358749,19.0,The Keg Steakhouse + Bar,1301,8.7,26 the Esplanade
+260,43.716652,-79.399993,11.0,Te Aro,5389,8.9,983 Queen St E
+261,43.684261,-79.299332,23.0,Boxcar Social,6013,8.9,4 Boulton Ave
+262,43.678685,-79.297974,12.0,Ital Vital Rastarant West Indian Vegan,2607,8.0,741 Pharmacy Ave
+263,43.65143,-79.47779,15.0,House on Parliament,7181,8.9,454 Parliament St
+264,43.64976,-79.48477,15.0,Neo Coffee Bar,8049,9.0,161 Frederick St
+265,43.664182,-79.449066,20.0,Chipotle Mexican Grill,6360,8.5,1072 Don Mills Rd
+266,43.64407,-79.3929,23.0,The Keg Steakhouse & Bar,7791,8.9,515 Jarvis St
+267,43.61868,-79.48674,15.0,Arz Bakery and Fine Foods,5626,8.3,1909 Lawrence Ave E
+268,43.6442,-79.38702,18.0,JOEY Don Mills,6307,8.4,75 O'Neill Rd
+269,43.64283,-79.38409,14.0,Pai,9503,9.2,18 Duncan St
+270,43.65182,-79.47421,19.0,Sneaky Dee's,3000,8.6,431 College St
+271,43.685569,-79.408019,19.0,The Library Specialty Coffee,3913,8.9,281 Dundas St W
+272,43.651678,-79.375233,17.0,The Keg Steakhouse & Bar,3919,8.9,515 Jarvis St
+273,43.651838,-79.378743,17.0,Pai,4591,9.2,18 Duncan St
+274,43.645653,-79.464366,22.0,HotBlack Coffee,4373,9.0,245 Queen St W
+275,43.665221,-79.394009,23.0,Communist's Daughter,3510,8.6,1149 Dundas St W
+276,43.688148,-79.362101,15.0,The Good Neighbour,4364,8.8,238 Annette St
+277,43.669232,-79.374495,23.0,Eataly,3019,8.4,55 Bloor St W
+278,43.640075,-79.414156,31.0,House on Parliament,4827,8.9,454 Parliament St
+279,43.678285,-79.347346,15.0,The Keg Steakhouse + Bar,4644,8.8,165 York St
+280,43.697139,-79.31469,15.0,The Keg Steakhouse & Bar,3029,8.9,515 Jarvis St
+281,43.694826,-79.295208,19.0,House on Parliament,3764,8.9,454 Parliament St
+282,43.673118,-79.318651,19.0,Eataly,2427,8.4,55 Bloor St W
+283,43.689293,-79.295895,23.0,The Library Specialty Coffee,4088,8.9,281 Dundas St W
+284,43.66908,-79.3149,19.0,HotBlack Coffee,4554,9.0,245 Queen St W
+285,43.66073,-79.47149,20.0,Pai,4825,9.2,18 Duncan St
+286,43.63121,-79.41414,26.0,Neo Coffee Bar,4951,9.0,161 Frederick St
+287,43.66189,-79.42679,15.0,Hair of the Dog,3381,8.5,425 Church St
+288,43.65389,-79.4675,19.0,Sneaky Dee's,3975,8.6,431 College St
+289,43.676697,-79.445029,16.0,The Keg Steakhouse + Bar,4653,8.8,165 York St
+290,43.68114,-79.4277,11.0,The Keg Steakhouse & Bar,3727,8.9,515 Jarvis St
+291,43.663148,-79.347938,16.0,House on Parliament,4421,8.9,454 Parliament St
+292,43.669813,-79.3335,23.0,Eataly,3157,8.4,55 Bloor St W
+293,43.633537,-79.437461,27.0,The Library Specialty Coffee,4820,8.9,281 Dundas St W
+294,43.663162,-79.309765,27.0,HotBlack Coffee,5286,9.0,245 Queen St W
+295,43.63632,-79.47307,23.0,Pai,5556,9.2,18 Duncan St
+296,43.697819,-79.38786,23.0,Neo Coffee Bar,5653,9.0,161 Frederick St
+297,43.638426,-79.429142,16.0,Hair of the Dog,4094,8.5,425 Church St
+298,43.65988,-79.38279,25.0,Sneaky Dee's,4663,8.6,431 College St
+299,43.667023,-79.401805,27.0,The Keg Steakhouse + Bar,5384,8.8,165 York St
+300,43.66842,-79.410585,19.0,Pai,1077,9.2,18 Duncan St
+301,43.66402,-79.46418,15.0,HotBlack Coffee,1308,9.0,245 Queen St W
+302,43.66686,-79.46526,23.0,The Library Specialty Coffee,1670,8.9,281 Dundas St W
+303,43.671278,-79.372127,19.0,The Keg Steakhouse + Bar,1476,8.8,165 York St
+304,43.635023,-79.399505,22.0,Cafe Landwer,1306,8.7,165 University Ave
+305,43.66834,-79.38235,19.0,Chotto Matte,1565,8.8,161 Bay St
+306,43.65263,-79.38766,23.0,Walrus Pub & Beer Hall,1565,8.7,187 Bay St
+307,43.65158,-79.38655,23.0,Forget Me Not Cafe,759,8.4,506 Adelaide St W
+308,43.70547,-79.40355,19.0,The Keg Steakhouse + Bar,1867,8.7,26 the Esplanade
+309,43.641675,-79.354006,23.0,Neo Coffee Bar,2463,9.0,161 Frederick St
+310,43.694341,-79.291416,23.0,The Library Specialty Coffee,1707,8.9,281 Dundas St W
+311,43.64422,-79.36927,18.0,Sneaky Dee's,1255,8.6,431 College St
+312,43.685924,-79.376304,11.0,HotBlack Coffee,2183,9.0,245 Queen St W
+313,43.645215,-79.364898,27.0,Pai,2422,9.2,18 Duncan St
+314,43.6462574,-79.3973381,17.0,The Keg Steakhouse & Bar,1966,8.9,515 Jarvis St
+315,43.646677,-79.442741,18.0,Eataly,1164,8.4,55 Bloor St W
+316,43.63855,-79.46693,19.0,The Keg Steakhouse + Bar,2427,8.8,165 York St
+317,43.645599,-79.4657123,11.0,House on Parliament,2833,8.9,454 Parliament St
+318,43.674923,-79.430465,11.0,Tim Hortons,1709,8.5,70 Gerrard St W
+319,43.684758,-79.316767,11.0,Cafe Landwer,2477,8.7,165 University Ave
+320,43.66663,-79.38148,36.0,The Library Specialty Coffee,1591,8.9,281 Dundas St W
+321,43.685221,-79.294766,20.0,The Keg Steakhouse & Bar,1699,8.9,515 Jarvis St
+322,43.635492,-79.398253,35.0,HotBlack Coffee,2074,9.0,245 Queen St W
+323,43.63951,-79.383717,19.0,Pai,2326,9.2,18 Duncan St
+324,43.641529,-79.386741,23.0,Sneaky Dee's,1376,8.6,431 College St
+325,43.6417852,-79.4131148,23.0,Eataly,901,8.4,55 Bloor St W
+326,43.655766,-79.3802,27.0,The Keg Steakhouse + Bar,2287,8.8,165 York St
+327,43.680466,-79.432522,11.0,House on Parliament,2571,8.9,454 Parliament St
+328,43.664088,-79.387095,51.0,Tim Hortons,1506,8.5,70 Gerrard St W
+329,43.65917,-79.46997,20.0,Cafe Landwer,2353,8.7,165 University Ave
+330,43.671535,-79.379173,16.0,Pai,434,9.2,18 Duncan St
+331,43.646734,-79.38301,23.0,HotBlack Coffee,513,9.0,245 Queen St W
+332,43.6662942,-79.4066433,15.0,The Keg Steakhouse + Bar,232,8.8,165 York St
+333,43.675278,-79.423889,27.0,Chotto Matte,392,8.8,161 Bay St
+334,43.648928,-79.378623,11.0,Cafe Landwer,194,8.7,165 University Ave
+335,43.6509552,-79.3707,15.0,Walrus Pub & Beer Hall,302,8.7,187 Bay St
+336,43.715951,-79.351246,27.0,The Library Specialty Coffee,945,8.9,281 Dundas St W
+337,43.665645,-79.304711,27.0,Neo Coffee Bar,1158,9.0,161 Frederick St
+338,43.645572,-79.39399,19.0,Sukho Thai,696,8.7,52 Wellington St E
+339,43.652777,-79.372637,19.0,Cactus Club Cafe,210,8.5,77 Adelaide St W
+340,43.665538,-79.451263,15.0,The Library Specialty Coffee,275,8.9,281 Dundas St W
+341,43.650325,-79.372287,25.0,HotBlack Coffee,684,9.0,245 Queen St W
+342,43.66943,-79.38915,15.0,Pai,956,9.2,18 Duncan St
+343,43.669244,-79.3894,19.0,The Keg Steakhouse + Bar,829,8.8,165 York St
+344,43.688526,-79.412903,15.0,Cafe Landwer,913,8.7,165 University Ave
+345,43.683351,-79.41562,15.0,Tim Hortons,392,8.5,70 Gerrard St W
+346,43.6574766,-79.373446,25.0,Neo Coffee Bar,1721,9.0,161 Frederick St
+347,43.636611,-79.400042,19.0,The Keg Steakhouse & Bar,1430,8.9,515 Jarvis St
+348,43.646552,-79.406468,9.0,Chotto Matte,1390,8.8,161 Bay St
+349,43.647259,-79.379878,27.0,Walrus Pub & Beer Hall,1275,8.7,187 Bay St
+350,43.713524,-79.400162,16.0,The Library Specialty Coffee,716,8.9,281 Dundas St W
+351,43.65003919999999,-79.3733541,15.0,HotBlack Coffee,1153,9.0,245 Queen St W
+352,43.653264,-79.382458,35.0,Pai,1373,9.2,18 Duncan St
+353,43.663376,-79.392125,19.0,Sneaky Dee's,768,8.6,431 College St
+354,43.660439,-79.385525,19.0,The Keg Steakhouse + Bar,1449,8.8,165 York St
+355,43.659226,-79.390213,11.0,Cafe Landwer,1465,8.7,165 University Ave
+356,43.65995,-79.38964,14.0,The Keg Steakhouse & Bar,1861,8.9,515 Jarvis St
+357,43.661803,-79.389682,12.0,Tim Hortons,1049,8.5,70 Gerrard St W
+358,43.660087,-79.385655,12.0,Dark Horse Espresso Bar,847,8.4,215 Spadina Ave
+359,43.6146692,-79.4873148,17.0,Chotto Matte,2027,8.8,161 Bay St
+360,43.626265,-79.476723,31.0,The Keg Steakhouse & Bar,2513,8.9,515 Jarvis St
+361,43.63771,-79.458173,27.0,House on Parliament,3198,8.9,454 Parliament St
+362,43.6390437,-79.4760109,23.0,Eataly,2027,8.4,55 Bloor St W
+363,43.6486599,-79.4376413,15.0,The Library Specialty Coffee,3735,8.9,281 Dundas St W
+364,43.6423847,-79.4240277,23.0,HotBlack Coffee,4182,9.0,245 Queen St W
+365,43.6702236,-79.4360232,23.0,Pai,4453,9.2,18 Duncan St
+366,43.67883,-79.408723,17.0,Neo Coffee Bar,4439,9.0,161 Frederick St
+367,43.6752732,-79.3778458,23.0,Hair of the Dog,2897,8.5,425 Church St
+368,43.645469,-79.411084,16.0,The Keg Steakhouse + Bar,4242,8.8,165 York St
+369,43.6882821,-79.4253856,19.0,Tim Hortons,3285,8.5,70 Gerrard St W
+370,43.651603,-79.408346,23.0,Pai,1110,9.2,18 Duncan St
+371,43.670206,-79.402643,19.0,HotBlack Coffee,1381,9.0,245 Queen St W
+372,43.661559,-79.413845,16.0,Chotto Matte,1177,8.8,161 Bay St
+373,43.6560758,-79.393259,15.0,The Keg Steakhouse + Bar,1364,8.8,165 York St
+374,43.6580442,-79.3927404,15.0,Walrus Pub & Beer Hall,1227,8.7,187 Bay St
+375,43.6568254,-79.3966159,18.0,Cafe Landwer,1211,8.7,165 University Ave
+376,43.5927419,-79.54033009999999,19.0,BeaverTails,629,8.5,145 Queen's Quay W
+377,43.597082,-79.522768,19.0,The Keg Steakhouse + Bar,1412,8.7,26 the Esplanade
+378,43.6171635,-79.4971065,31.0,Neo Coffee Bar,2038,9.0,161 Frederick St
+379,43.612063,-79.496573,20.0,The Library Specialty Coffee,1848,8.9,281 Dundas St W
+380,43.63732,-79.489083,19.0,The Good Neighbour,1698,8.8,238 Annette St
+381,43.5961692,-79.5160575,27.0,Communist's Daughter,2589,8.6,1149 Dundas St W
+382,43.613606,-79.4883535,27.0,Sneaky Dee's,3558,8.6,431 College St
+383,43.664665,-79.489385,23.0,Pai,5158,9.2,18 Duncan St
+384,43.665523,-79.484892,23.0,The Library Specialty Coffee,4890,8.9,281 Dundas St W
+385,43.668496,-79.485426,19.0,HotBlack Coffee,5109,9.0,245 Queen St W
+386,43.698841,-79.519472,27.0,Pennies,3489,8.3,127 Strachan Ave
+387,43.658574,-79.487246,15.0,The Keg Steakhouse + Bar,5478,8.8,165 York St
+388,43.63985,-79.43703,27.0,Cafe Landwer,5397,8.7,165 University Ave
+389,43.665076,-79.341509,17.0,The Keg Steakhouse & Bar,6009,8.9,515 Jarvis St
+390,43.6323994,-79.40978179999999,47.0,Pai,1314,9.2,18 Duncan St
+391,43.6935477,-79.3301658,15.0,HotBlack Coffee,1522,9.0,245 Queen St W
+392,43.6438036,-79.4770327,15.0,The Library Specialty Coffee,1831,8.9,281 Dundas St W
+393,43.65246,-79.413528,20.0,The Keg Steakhouse + Bar,1730,8.8,165 York St
+394,43.6548521,-79.35397680000001,15.0,Cafe Landwer,1562,8.7,165 University Ave
+395,43.630874,-79.482407,23.0,Chotto Matte,1859,8.8,161 Bay St
+396,43.6704403,-79.45328549999999,15.0,Walrus Pub & Beer Hall,1853,8.7,187 Bay St
+397,43.6535,-79.354068,22.0,Neo Coffee Bar,2755,9.0,161 Frederick St
+398,43.6617908,-79.361515,27.0,The Keg Steakhouse + Bar,2164,8.7,26 the Esplanade
+399,43.649709,-79.364184,19.0,Sukho Thai,2264,8.7,52 Wellington St E
+400,43.666051,-79.374161,47.0,Pai,2496,9.2,18 Duncan St
+401,43.7005976,-79.397345,19.0,HotBlack Coffee,2687,9.0,245 Queen St W
+402,43.7029672,-79.3979073,15.0,Communist's Daughter,2069,8.6,1149 Dundas St W
+403,43.68871,-79.39264,19.0,The Library Specialty Coffee,2937,8.9,281 Dundas St W
+404,43.6834703,-79.5108942,22.0,Pennies,1229,8.3,127 Strachan Ave
+405,43.7696262,-79.5025943,27.0,Forget Me Not Cafe,1704,8.4,506 Adelaide St W
+406,43.7641485,-79.5012809,27.0,The Keg Steakhouse + Bar,2915,8.8,165 York St
+407,43.76521,-79.491281,23.0,Cafe Landwer,2748,8.7,165 University Ave
+408,43.7724019,-79.4675395,19.0,Chotto Matte,3022,8.8,161 Bay St
+409,43.7781116,-79.467963,31.0,Burdock,3721,9.1,1184 Bloor St W
+410,43.707049,-79.40966,23.0,The Library Specialty Coffee,1166,8.9,281 Dundas St W
+411,43.711751,-79.378615,31.0,HotBlack Coffee,1619,9.0,245 Queen St W
+412,43.732975,-79.40401,15.0,Pai,1842,9.2,18 Duncan St
+413,43.660274,-79.398049,20.0,Sneaky Dee's,761,8.6,431 College St
+414,43.699281,-79.318802,19.0,The Keg Steakhouse & Bar,1940,8.9,515 Jarvis St
+415,43.707582,-79.311439,24.0,The Keg Steakhouse + Bar,1901,8.8,165 York St
+416,43.696631,-79.297436,19.0,Cafe Landwer,1928,8.7,165 University Ave
+417,43.650077,-79.391291,23.0,Tim Hortons,1352,8.5,70 Gerrard St W
+418,43.6765897,-79.3163022,19.0,Neo Coffee Bar,2856,9.0,161 Frederick St
+419,43.650745,-79.383633,17.0,House on Parliament,2704,8.9,454 Parliament St
+420,43.720233,-79.362092,27.0,The Good Neighbour,1113,8.8,238 Annette St
+421,43.6926825,-79.441042,19.0,Communist's Daughter,3567,8.6,1149 Dundas St W
+422,43.7041957,-79.4094472,14.0,Sneaky Dee's,4250,8.6,431 College St
+423,43.7078691,-79.39248,15.0,Pai,5982,9.2,18 Duncan St
+424,43.591561,-79.545827,33.0,The Library Specialty Coffee,5589,8.9,281 Dundas St W
+425,43.5880774,-79.5432067,23.0,HotBlack Coffee,5886,9.0,245 Queen St W
+426,43.754978,-79.1971289,11.0,The Keg Steakhouse + Bar,6248,8.8,165 York St
+427,43.6856,-79.3718,20.0,The Keg Steakhouse & Bar,6433,8.9,515 Jarvis St
+428,43.637764,-79.345359,49.0,Cafe Landwer,6194,8.7,165 University Ave
+429,43.6629228,-79.4018451,36.0,Pennies,4527,8.3,127 Strachan Ave
+430,43.660296,-79.397107,16.0,The Good Neighbour,1597,8.8,238 Annette St
+431,43.788319,-79.123505,23.0,Communist's Daughter,2685,8.6,1149 Dundas St W
+432,43.7805505,-79.1301203,25.0,Sneaky Dee's,3631,8.6,431 College St
+433,43.7777114,-79.1659711,27.0,Pai,5246,9.2,18 Duncan St
+434,43.779353,-79.193023,23.0,The Library Specialty Coffee,4966,8.9,281 Dundas St W
+435,43.747854,-79.199327,19.0,HotBlack Coffee,5192,9.0,245 Queen St W
+436,43.7561681,-79.2026694,27.0,The Keg Steakhouse + Bar,5561,8.8,165 York St
+437,43.6002896,-79.5108692,23.0,Pennies,3592,8.3,127 Strachan Ave
+438,43.6615467,-79.498398,15.0,Cafe Landwer,5483,8.7,165 University Ave
+439,43.6632257,-79.4397052,17.0,The Keg Steakhouse & Bar,6063,8.9,515 Jarvis St
+440,43.680095,-79.291714,15.0,The Library Specialty Coffee,1050,8.9,281 Dundas St W
+441,43.691468,-79.288619,18.0,Sneaky Dee's,364,8.6,431 College St
+442,43.645609,-79.380386,43.0,Pai,1593,9.2,18 Duncan St
+443,43.6591666666667,-79.3855555555556,23.0,HotBlack Coffee,1418,9.0,245 Queen St W
+444,43.658777,-79.369596,32.0,The Keg Steakhouse + Bar,1753,8.8,165 York St
+445,43.6625395,-79.5030161,15.0,Cafe Landwer,1738,8.7,165 University Ave
+446,43.7004017,-79.4275305,17.0,Dark Horse Espresso Bar,926,8.4,215 Spadina Ave
+447,43.77953,-79.45233,15.0,The Keg Steakhouse & Bar,2245,8.9,515 Jarvis St
+448,43.7774374,-79.4447096,23.0,Communist's Daughter,1696,8.6,1149 Dundas St W
+449,43.6637403,-79.39806449999999,15.0,Chotto Matte,2320,8.8,161 Bay St
+450,43.707045,-79.375437,15.0,The Keg Steakhouse & Bar,676,8.9,515 Jarvis St
+451,43.6495789,-79.3762096,19.0,House on Parliament,958,8.9,454 Parliament St
+452,43.6637,-79.400053,19.0,Neo Coffee Bar,1361,9.0,161 Frederick St
+453,43.690903,-79.4375028,16.0,The Library Specialty Coffee,1181,8.9,281 Dundas St W
+454,43.643253094827294,-79.41230469904167,15.0,HotBlack Coffee,1384,9.0,245 Queen St W
+455,43.6029904,-79.4926867,19.0,Pai,1612,9.2,18 Duncan St
+456,43.6596299,-79.4799176,15.0,Hair of the Dog,242,8.5,425 Church St
+457,43.6608333,-79.43166666666667,15.0,The Keg Steakhouse + Bar,1257,8.8,165 York St
+458,43.66083333333333,-79.43583333333333,22.0,Tim Hortons,542,8.5,70 Gerrard St W
+459,43.69933,-79.39199,19.0,Sukho Thai,1404,8.7,52 Wellington St E
+460,43.6653032,-79.4701178,15.0,Pai,1394,9.2,18 Duncan St
+461,43.6162721,-79.4990363,19.0,HotBlack Coffee,1642,9.0,245 Queen St W
+462,43.720645,-79.355474,27.0,Chotto Matte,1762,8.8,161 Bay St
+463,43.6641174,-79.4588522,15.0,The Keg Steakhouse + Bar,1768,8.8,165 York St
+464,43.6424558,-79.4296346,15.0,The Library Specialty Coffee,2026,8.9,281 Dundas St W
+465,43.6954486,-79.4026176,19.0,Cafe Landwer,1598,8.7,165 University Ave
+466,43.6850809,-79.3149901,15.0,Walrus Pub & Beer Hall,1782,8.7,187 Bay St
+467,43.6800218,-79.3405681,16.0,The Keg Steakhouse + Bar,2038,8.7,26 the Esplanade
+468,43.7842419,-79.1849889,16.0,BeaverTails,1318,8.5,145 Queen's Quay W
+469,43.6451308,-79.36536439999999,15.0,Neo Coffee Bar,2655,9.0,161 Frederick St
+470,43.6482995,-79.3552533,19.0,Pai,1084,9.2,18 Duncan St
+471,43.65637299999999,-79.38781039999999,17.0,Chotto Matte,717,8.8,161 Bay St
+472,43.657838,-79.38631,20.0,BeaverTails,54,8.5,145 Queen's Quay W
+473,43.778015,-79.131911,19.0,HotBlack Coffee,1314,9.0,245 Queen St W
+474,43.672079,-79.470171,23.0,Walrus Pub & Beer Hall,808,8.7,187 Bay St
+475,43.690237,-79.350119,19.0,The Keg Steakhouse + Bar,862,8.7,26 the Esplanade
+476,43.70942,-79.39139,19.0,Neo Coffee Bar,1480,9.0,161 Frederick St
+477,43.671389,-79.382919,15.0,The Keg Steakhouse + Bar,1133,8.8,165 York St
+478,43.671561,-79.38117,23.0,Sukho Thai,1043,8.7,52 Wellington St E
+479,43.669576,-79.375961,15.0,Cafe Landwer,1036,8.7,165 University Ave
+480,43.669903,-79.387802,11.0,The Library Specialty Coffee,884,8.9,281 Dundas St W
+481,43.693256,-79.383238,14.0,The Keg Steakhouse & Bar,854,8.9,515 Jarvis St
+482,43.65412449999999,-79.4636388,7.0,HotBlack Coffee,1148,9.0,245 Queen St W
+483,43.680207,-79.339243,15.0,Pai,1397,9.2,18 Duncan St
+484,43.6589882,-79.438715,11.0,House on Parliament,1273,8.9,454 Parliament St
+485,43.6741219,-79.4352208,16.0,Neo Coffee Bar,1482,9.0,161 Frederick St
+486,43.6469928,-79.3706665,19.0,The Keg Steakhouse + Bar,1093,8.8,165 York St
+487,43.683884,-79.36647,25.0,Tim Hortons,232,8.5,70 Gerrard St W
+488,43.6578449,-79.3899265,18.0,Hair of the Dog,420,8.5,425 Church St
+489,43.6477785,-79.3847928,16.0,Cafe Landwer,1242,8.7,165 University Ave
+490,43.6856128,-79.31168269999999,19.0,Pai,809,9.2,18 Duncan St
+491,43.681944,-79.390556,11.0,Chotto Matte,338,8.8,161 Bay St
+492,43.671771,-79.324961,19.0,Walrus Pub & Beer Hall,418,8.7,187 Bay St
+493,43.64534,-79.409597,26.0,HotBlack Coffee,997,9.0,245 Queen St W
+494,43.6393107,-79.4408141,19.0,The Keg Steakhouse + Bar,566,8.7,26 the Esplanade
+495,43.68306889999999,-79.279682,22.0,The Keg Steakhouse + Bar,762,8.8,165 York St
+496,43.6626628,-79.3323698,15.0,Neo Coffee Bar,1189,9.0,161 Frederick St
+497,43.681114,-79.3373885,15.0,Sukho Thai,713,8.7,52 Wellington St E
+498,43.638925,-79.4168659,15.0,Cafe Landwer,691,8.7,165 University Ave
+499,43.676216,-79.309395,15.0,The Library Specialty Coffee,1461,8.9,281 Dundas St W
+500,43.652822,-79.378208,23.0,House on Parliament,525,8.9,454 Parliament St
+501,43.656311,-79.379158,39.0,The Keg Steakhouse & Bar,404,8.9,515 Jarvis St
+502,43.656633,-79.379625,19.0,Neo Coffee Bar,1756,9.0,161 Frederick St
+503,43.686962,-79.286864,16.0,Hair of the Dog,634,8.5,425 Church St
+504,43.718039,-79.371914,17.0,The Library Specialty Coffee,1929,8.9,281 Dundas St W
+505,43.672152,-79.39018,15.0,HotBlack Coffee,2151,9.0,245 Queen St W
+506,43.673019,-79.467994,19.0,Pai,2375,9.2,18 Duncan St
+507,43.72268,-79.37644,15.0,The Keg Steakhouse + Bar,2002,8.8,165 York St
+508,43.6504218,-79.4407647,26.0,Sukho Thai,1974,8.7,52 Wellington St E
+509,43.68850459999999,-79.3940052,19.0,Chotto Matte,2239,8.8,161 Bay St
+510,43.641705,-79.393295,31.0,Pai,945,9.2,18 Duncan St
+511,43.647663,-79.487583,23.0,HotBlack Coffee,1197,9.0,245 Queen St W
+512,43.6558557,-79.3894093,20.0,The Keg Steakhouse + Bar,1320,8.8,165 York St
+513,43.720998,-79.377456,11.0,Chotto Matte,1361,8.8,161 Bay St
+514,43.72814640000001,-79.4032194,12.0,Cafe Landwer,1150,8.7,165 University Ave
+515,43.652327224103,-79.3882538196087,19.0,The Library Specialty Coffee,1600,8.9,281 Dundas St W
+516,43.6438602,-79.4227573,11.0,Walrus Pub & Beer Hall,1367,8.7,187 Bay St
+517,43.7093201,-79.3996301,12.0,The Keg Steakhouse + Bar,1657,8.7,26 the Esplanade
+518,43.64920406876699,-79.49336334201408,27.0,Neo Coffee Bar,2259,9.0,161 Frederick St
+519,43.6503935,-79.3860211,27.0,Sukho Thai,1768,8.7,52 Wellington St E
+520,43.6399714,-79.39940399999999,16.0,Communist's Daughter,1414,8.6,1149 Dundas St W
+521,43.68827060022711,-79.43937767081853,19.0,Pai,2799,9.2,18 Duncan St
+522,43.6614605,-79.37894570000002,24.0,HotBlack Coffee,2924,9.0,245 Queen St W
+523,43.69413548199171,-79.30058718775287,20.0,Pennies,948,8.3,127 Strachan Ave
+524,43.7254665,-79.40115449999999,23.0,The Library Specialty Coffee,3043,8.9,281 Dundas St W
+525,43.7083577,-79.39886200000001,35.0,Sneaky Dee's,2403,8.6,431 College St
+526,43.640978,-79.376785,23.0,The Keg Steakhouse + Bar,3224,8.8,165 York St
+527,43.63840090000001,-79.4197107,17.0,Cafe Landwer,3071,8.7,165 University Ave
+528,43.7027268,-79.33368089999999,19.0,Chotto Matte,3467,8.8,161 Bay St
+529,43.70567,-79.310554,18.0,Walrus Pub & Beer Hall,3445,8.7,187 Bay St
+530,43.635,-79.4088888888889,19.0,The Library Specialty Coffee,869,8.9,281 Dundas St W
+531,43.65678478285314,-79.35627385059036,15.0,Pai,1237,9.2,18 Duncan St
+532,43.732016,-79.403637,15.0,HotBlack Coffee,1112,9.0,245 Queen St W
+533,43.67515255542865,-79.38849615969643,14.0,Sneaky Dee's,544,8.6,431 College St
+534,43.67468857448634,-79.36701962396272,19.0,The Keg Steakhouse + Bar,1474,8.8,165 York St
+535,43.72736548824631,-79.3814254607724,16.0,Cafe Landwer,1424,8.7,165 University Ave
+536,43.6846177,-79.39245919999999,16.0,Dark Horse Espresso Bar,516,8.4,215 Spadina Ave
+537,43.645835578756525,-79.32088910859937,15.0,Chotto Matte,2011,8.8,161 Bay St
+538,43.77345,-79.5002,16.0,Communist's Daughter,1626,8.6,1149 Dundas St W
+539,43.686442,-79.313404,15.0,Walrus Pub & Beer Hall,1918,8.7,187 Bay St
+540,43.66402799999999,-79.40297869999999,35.0,The Good Neighbour,2284,8.8,238 Annette St
+541,43.6544839,-79.34105699999999,24.0,Communist's Daughter,2061,8.6,1149 Dundas St W
+542,43.6481303,-79.38632,20.0,Sneaky Dee's,2878,8.6,431 College St
+543,43.65049,-79.3873,39.0,Pai,4542,9.2,18 Duncan St
+544,43.64134790000001,-79.4013882,23.0,The Library Specialty Coffee,4220,8.9,281 Dundas St W
+545,43.64215,-79.377,23.0,HotBlack Coffee,4471,9.0,245 Queen St W
+546,43.663337,-79.446444,15.0,The Keg Steakhouse + Bar,4839,8.8,165 York St
+547,43.6392777,-79.4115736,19.0,Pennies,3018,8.3,127 Strachan Ave
+548,43.645102,-79.39744979999999,22.0,Cafe Landwer,4769,8.7,165 University Ave
+549,43.6602021,-79.4342726,12.0,The Keg Steakhouse & Bar,5280,8.9,515 Jarvis St
+550,43.644887,-79.45641169999999,15.0,Communist's Daughter,1717,8.6,1149 Dundas St W
+551,43.680012,-79.34403250000001,26.0,The Good Neighbour,2567,8.8,238 Annette St
+552,43.641952,-79.380723,14.0,Sneaky Dee's,2746,8.6,431 College St
+553,43.637381,-79.406112,15.0,Pai,4297,9.2,18 Duncan St
+554,43.63811,-79.397877,27.0,HotBlack Coffee,4256,9.0,245 Queen St W
+555,43.64957,-79.432446,15.0,The Library Specialty Coffee,4059,8.9,281 Dundas St W
+556,43.64191,-79.378325,15.0,Pennies,2624,8.3,127 Strachan Ave
+557,43.6700692,-79.2971326,26.0,The Keg Steakhouse + Bar,4626,8.8,165 York St
+558,43.6559476,-79.37558829999999,19.0,Cafe Landwer,4540,8.7,165 University Ave
+559,43.707212,-79.2952873,19.0,Dark Horse Espresso Bar,3586,8.4,215 Spadina Ave
+560,43.6677628,-79.30811709999999,19.0,Communist's Daughter,1783,8.6,1149 Dundas St W
+561,43.6750806,-79.3068697,19.0,The Good Neighbour,2597,8.8,238 Annette St
+562,43.6754247,-79.4547813,13.0,Sneaky Dee's,2931,8.6,431 College St
+563,43.6467433,-79.446895,19.0,Pai,4392,9.2,18 Duncan St
+564,43.6409957,-79.40966630000001,23.0,HotBlack Coffee,4373,9.0,245 Queen St W
+565,43.6593483,-79.34993659999999,18.0,The Library Specialty Coffee,4212,8.9,281 Dundas St W
+566,43.67168,-79.421192,19.0,Pennies,2616,8.3,127 Strachan Ave
+567,43.652634,-79.374222,16.0,The Keg Steakhouse + Bar,4741,8.8,165 York St
+568,43.6519501,-79.4060978,27.0,Cafe Landwer,4644,8.7,165 University Ave
+569,43.6613642,-79.3641171,19.0,Dark Horse Espresso Bar,3701,8.4,215 Spadina Ave
+570,43.6808774,-79.3304491,19.0,Communist's Daughter,1439,8.6,1149 Dundas St W
+571,43.6623658,-79.3413344,19.0,The Good Neighbour,2886,8.8,238 Annette St
+572,43.6791345,-79.3263159,27.0,Sneaky Dee's,2578,8.6,431 College St
+573,43.6478206,-79.3704721,15.0,Pai,4045,9.2,18 Duncan St
+574,43.635495,-79.40352209999999,19.0,HotBlack Coffee,4022,9.0,245 Queen St W
+575,43.6868681,-79.3110942,20.0,The Library Specialty Coffee,3857,8.9,281 Dundas St W
+576,43.678177,-79.435364,15.0,Pennies,2303,8.3,127 Strachan Ave
+577,43.6962302,-79.39504339999999,23.0,The Keg Steakhouse + Bar,4390,8.8,165 York St
+578,43.667076,-79.425116,15.0,Cafe Landwer,4295,8.7,165 University Ave
+579,43.649217,-79.465319,26.0,Dark Horse Espresso Bar,3350,8.4,215 Spadina Ave
+580,43.68005,-79.43469,15.0,Communist's Daughter,585,8.6,1149 Dundas St W
+581,43.675648,-79.4527619,19.0,Sneaky Dee's,1241,8.6,431 College St
+582,43.6677246,-79.4041365,18.0,Pai,2833,9.2,18 Duncan St
+583,43.66496415990742,-79.38355031526893,26.0,The Library Specialty Coffee,2551,8.9,281 Dundas St W
+584,43.648437,-79.39838,12.0,HotBlack Coffee,2769,9.0,245 Queen St W
+585,43.6673,-79.374,31.0,The Keg Steakhouse + Bar,3138,8.8,165 York St
+586,43.6517925,-79.38269509999999,23.0,Pennies,1502,8.3,127 Strachan Ave
+587,43.6372958,-79.4423237,19.0,Cafe Landwer,3063,8.7,165 University Ave
+588,43.6554793,-79.4302462,15.0,Dark Horse Espresso Bar,2105,8.4,215 Spadina Ave
+589,43.686352,-79.415894,22.0,Chotto Matte,3636,8.8,161 Bay St
+590,43.6442457,-79.41610440000001,19.0,The Good Neighbour,1013,8.8,238 Annette St
+591,43.7741,-79.5005,15.0,Communist's Daughter,3626,8.6,1149 Dundas St W
+592,43.683979,-79.410657,15.0,Sneaky Dee's,4678,8.6,431 College St
+593,43.6472019,-79.3953394,15.0,Pai,6228,9.2,18 Duncan St
+594,43.6513927,-79.35794659999999,15.0,HotBlack Coffee,6195,9.0,245 Queen St W
+595,43.6647688,-79.3772602,17.0,The Library Specialty Coffee,6000,8.9,281 Dundas St W
+596,43.6506,-79.381285,22.0,Pennies,4458,8.3,127 Strachan Ave
+597,43.6408346,-79.3429074,15.0,The Keg Steakhouse + Bar,6565,8.8,165 York St
+598,43.6586525,-79.440502,23.0,Cafe Landwer,6475,8.7,165 University Ave
+599,43.6585504,-79.4497659,19.0,The Keg Steakhouse & Bar,7146,8.9,515 Jarvis St
+600,43.6484201,-79.40051919999999,28.0,Cheese Boutique,865,9.0,45 Ripley Ave
+601,43.6461512,-79.3998214,11.0,The Good Neighbour,2998,8.8,238 Annette St
+602,43.693187,-79.314283,11.0,Communist's Daughter,3849,8.6,1149 Dundas St W
+603,43.6425791,-79.40011729999999,11.0,Pai,6294,9.2,18 Duncan St
+604,43.6469251,-79.3733192,19.0,HotBlack Coffee,6350,9.0,245 Queen St W
+605,43.644395,-79.40065430000001,16.0,Sneaky Dee's,5164,8.6,431 College St
+606,43.6463574,-79.391206,11.0,The Library Specialty Coffee,6308,8.9,281 Dundas St W
+607,43.6682342,-79.3702641,15.0,Pennies,4326,8.3,127 Strachan Ave
+608,43.6791876,-79.39071899999999,15.0,The Keg Steakhouse + Bar,6696,8.8,165 York St
+609,43.674446,-79.398331,15.0,Cafe Landwer,6566,8.7,165 University Ave
+610,43.6334636,-79.4143057,19.0,The Good Neighbour,1256,8.8,238 Annette St
+611,43.6352007,-79.4187711,14.0,Communist's Daughter,3194,8.6,1149 Dundas St W
+612,43.6501644,-79.48296909999999,31.0,Sneaky Dee's,4237,8.6,431 College St
+613,43.636804,-79.408832,42.0,Pai,5793,9.2,18 Duncan St
+614,43.6658804,-79.38761010000002,20.0,HotBlack Coffee,5757,9.0,245 Queen St W
+615,43.68035,-79.28357,15.0,The Library Specialty Coffee,5559,8.9,281 Dundas St W
+616,43.6535052,-79.3667689,19.0,Pennies,4042,8.3,127 Strachan Ave
+617,43.70241858146351,-79.2563167072858,15.0,The Keg Steakhouse + Bar,6127,8.8,165 York St
+618,43.68824135931814,-79.27046628033244,14.0,Cafe Landwer,6038,8.7,165 University Ave
+619,43.691688,-79.265027,15.0,The Keg Steakhouse & Bar,6711,8.9,515 Jarvis St
+620,43.697490048103,-79.25655146462776,15.0,Cheese Boutique,1644,9.0,45 Ripley Ave
+621,43.69401297794256,-79.26257204548136,15.0,The Good Neighbour,3035,8.8,238 Annette St
+622,43.6929478,-79.28339980000001,15.0,Communist's Daughter,3006,8.6,1149 Dundas St W
+623,43.6950192,-79.27180659999999,15.0,Pai,5442,9.2,18 Duncan St
+624,43.69263249999999,-79.4627536,19.0,Sneaky Dee's,4330,8.6,431 College St
+625,43.7105975,-79.2541175,15.0,HotBlack Coffee,5497,9.0,245 Queen St W
+626,43.69415,-79.45782580000001,19.0,The Library Specialty Coffee,5457,8.9,281 Dundas St W
+627,43.668500046272165,-79.3946235999697,19.0,Pennies,3476,8.3,127 Strachan Ave
+628,43.70163,-79.44099,19.0,The Keg Steakhouse + Bar,5843,8.8,165 York St
+629,43.688028,-79.460265,15.0,Cafe Landwer,5714,8.7,165 University Ave
+630,43.68323,-79.455765,23.0,Cheese Boutique,721,9.0,45 Ripley Ave
+631,43.69466,-79.45376999999999,14.0,The Good Neighbour,3087,8.8,238 Annette St
+632,43.6784834,-79.3513564,9.0,Communist's Daughter,4092,8.6,1149 Dundas St W
+633,43.65016869999999,-79.4963345,19.0,Pai,6530,9.2,18 Duncan St
+634,43.6492,-79.50601999999999,15.0,HotBlack Coffee,6588,9.0,245 Queen St W
+635,43.6897656,-79.2939525,15.0,Sneaky Dee's,5408,8.6,431 College St
+636,43.6537513,-79.4028245,17.0,The Library Specialty Coffee,6550,8.9,281 Dundas St W
+637,43.6357643,-79.4674917,22.0,Pennies,4560,8.3,127 Strachan Ave
+638,43.64839,-79.51008,15.0,The Keg Steakhouse + Bar,6933,8.8,165 York St
+639,43.62369169999999,-79.4838132,15.0,Cafe Landwer,6802,8.7,165 University Ave
+640,43.648657,-79.458111,15.0,The Good Neighbour,1113,8.8,238 Annette St
+641,43.671293,-79.380471,23.0,Communist's Daughter,3575,8.6,1149 Dundas St W
+642,43.69932707258943,-79.4493630391668,15.0,Sneaky Dee's,4645,8.6,431 College St
+643,43.63560589999999,-79.4934616,15.0,Pai,6180,9.2,18 Duncan St
+644,43.7611741,-79.5114452,18.0,HotBlack Coffee,6151,9.0,245 Queen St W
+645,43.6428899,-79.3946346,18.0,The Library Specialty Coffee,5963,8.9,281 Dundas St W
+646,43.7603624,-79.5162777,18.0,Pennies,4397,8.3,127 Strachan Ave
+647,43.62313,-79.4918,22.0,The Keg Steakhouse + Bar,6520,8.8,165 York St
+648,43.772445,-79.511912,15.0,Cafe Landwer,6429,8.7,165 University Ave
+649,43.653359,-79.365023,11.0,Chotto Matte,6981,8.8,161 Bay St
+650,43.70643614257429,-79.25104443353288,11.0,Burdock,3175,9.1,1184 Bloor St W
+651,43.655972,-79.370638,15.0,Communist's Daughter,2135,8.6,1149 Dundas St W
+652,43.666874,-79.381155,12.0,Pai,3831,9.2,18 Duncan St
