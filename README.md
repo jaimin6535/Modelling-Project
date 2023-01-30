@@ -1,17 +1,32 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+We have big network of city bike. City bike is spread across the globe. It has multiple bike stations in the city. We need to use various APIs to analyse the station for a city and based on that we need to identify the restaurants based on the ratings.
+
+Additionly We need to identify if there is any relation between restaurants and distance from bike staion.
 
 ## Process
-### (your step 1)
-### (your step 2)
+### Explore the data with City_bike API based on the city
+### Find out the list of stations,bikes, location 
+### Explore Foursquare API and find out the Restaurant near by the bike station.
+### Explore Yelp API and find out the Restaurant near by the bike station.
+###  Create the combine data frame from both API.
+### Mearge the data with list of stations,total bikes
+### Perform the Model building
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+1. For bike station Toronto bike -station is selected.
+2. It has total 12429 bikes in Toronto
+3. By Exploring Foursquare API,total 6530 restaurants are there
+4. There are 653 rows after merging the data with bike-station data
+5. For total bike - mean =19.033691, std =6.323010 
+6. P vaule for (total-bike vs distance) is 0.43 > 0.05 so it fails to reject H0
+7. P vaule for (total-bike vs rating ) is 0.736 > 0.05 so it fails to reject H0
 
 ## Challenges 
-(discuss challenges you faced in the project)
+ 1. To get data from Yelp API to CSV file.
+ 2. To iterate for loop for both the API
+ 3. Model building and converting it tnto a classification.
 
 ## Future Goals
-(what would you do if you had more time?)
+Find out easy way to use looping for iteration.Do some more research about models and how to perform Regression into classification. 
