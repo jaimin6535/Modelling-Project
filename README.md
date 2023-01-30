@@ -6,13 +6,13 @@ We have big network of city bike. City bike is spread across the globe. It has m
 Additionly We need to identify if there is any relation between restaurants and distance from bike staion.
 
 ## Process
-### Explore the data with City_bike API based on the city
-### Find out the list of stations,bikes, location 
-### Explore Foursquare API and find out the Restaurant near by the bike station.
-### Explore Yelp API and find out the Restaurant near by the bike station.
-###  Create the combine data frame from both API.
-### Mearge the data with list of stations,total bikes
-### Perform the Model building
+#### 1.Explore the data with City_bike API based on the city
+#### 2.Find out the list of stations,bikes, location 
+#### 3.Explore Foursquare API and find out the Restaurant near by the bike station.
+#### 4.Explore Yelp API and find out the Restaurant near by the bike station.
+#### 5. Create the combine data frame from both API.
+#### 6.Mearge the data with list of stations,total bikes
+#### 7.Perform the Model building
 
 ## Results
 1. For bike station Toronto bike -station is selected.
